@@ -1,0 +1,11 @@
+{
+  "virtual_daigoku":       { "sounds": [ { "name": "yalanmod:virtual_daigoku", "stream": true } ] },
+  "virtual_daigoku_chase": { "sounds": [ { "name": "yalanmod:virtual_daigoku", "stream": true, "attenuation_distance": 48 } ] },
+  "scream":                { "sounds": [ "yalanmod:scream" ] },
+  "heartbeat":             { "sounds": [ "yalanmod:heartbeat" ] },
+  "drone":                 { "sounds": [ "yalanmod:drone" ] },
+  "voice_ayayayai":        { "sounds": [ { "name": "yalanmod:voice_ayayayai",   "attenuation_distance": 48 } ] },
+  "voice_govalorant":      { "sounds": [ { "name": "yalanmod:voice_govalorant", "attenuation_distance": 48 } ] },
+  "voice_somuypro":        { "sounds": [ { "name": "yalanmod:voice_somuypro",   "attenuation_distance": 48 } ] },
+  "voice_gobasket":        { "sounds": [ { "name": "yalanmod:voice_gobasket",   "attenuation_distance": 48 } ] }
+}
